@@ -7,3 +7,4 @@
 Student: Alexander Belov
 * Problem 1: Single-objective optimization with genetic algorithm (contains animation, works in colab)
 * Problem 2: Multi-objective optimization with NSGA-II
+* (Submitted after deadline) Problem 3: vehicle routing problem
